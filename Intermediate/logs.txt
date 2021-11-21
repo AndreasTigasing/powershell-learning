@@ -1,0 +1,32 @@
+**********************
+Windows PowerShell transcript start
+Start time: 20211119223130
+Username: ANDREASPC\Andreas
+RunAs User: ANDREASPC\Andreas
+Configuration Name: 
+Machine: ANDREASPC (Microsoft Windows NT 10.0.19042.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command Import-Module 'c:\Users\Andreas\.vscode\extensions\ms-vscode.powershell-2021.10.2\modules\PowerShellEditorServices\PowerShellEditorServices.psd1'; Start-EditorServices -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '2021.10.2' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'c:\Users\Andreas\.vscode\extensions\ms-vscode.powershell-2021.10.2\modules' -EnableConsoleRepl -StartupBanner '=====> PowerShell Integrated Console v2021.10.2 <=====
+' -LogLevel 'Normal' -LogPath 'c:\Users\Andreas\.vscode\extensions\ms-vscode.powershell-2021.10.2\logs\1637353614-40dcc181-3849-4cd0-8e3c-fcf208143ca11637353613548\EditorServices.log' -SessionDetailsPath 'c:\Users\Andreas\.vscode\extensions\ms-vscode.powershell-2021.10.2\sessions\PSES-VSCode-24088-869178' -FeatureFlags @() 
+Process ID: 10012
+PSVersion: 5.1.19041.1320
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.19041.1320
+BuildVersion: 10.0.19041.1320
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\powershell\Intermediate\logs.txt
+Started to stop Service Print Spooler in a device: AndreasPC
+
+DisplayName : Print Spooler
+Status      : Stopped
+StartType   : Automatic
+
+Service Print Spooler has been stopped in a device: AndreasPC
+Stopped Print Spooler AndreasPC
+**********************
+Windows PowerShell transcript end
+End time: 20211119223133
+**********************
